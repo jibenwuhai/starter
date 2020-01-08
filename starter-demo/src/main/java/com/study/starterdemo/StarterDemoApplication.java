@@ -10,4 +10,10 @@ public class StarterDemoApplication {
         SpringApplication.run(StarterDemoApplication.class, args);
     }
 
+  //  @Bean
+  //  public FormatTemplate getFormatService(){
+  //      return new FormatTemplate(new JsonFormatServiceImpl());
+  //  }
+
+
 }

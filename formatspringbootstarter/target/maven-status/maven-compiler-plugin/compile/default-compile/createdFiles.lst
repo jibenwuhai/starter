@@ -1,0 +1,6 @@
+com\study\autoConfiguration\HelloAutoConfiguration.class
+com\study\format\ObjectFormatServiceImpl.class
+com\study\format\FormatService.class
+com\study\FormatTemplate.class
+com\study\format\JsonFormatServiceImpl.class
+com\study\autoConfiguration\FormatAutoConfiguration.class
