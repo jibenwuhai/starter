@@ -1,6 +1,7 @@
 package com.study.starterdemo.web;
 
 import com.study.FormatTemplate;
+import com.study.format.StringFormatServiceImpl;
 import com.study.starterdemo.dto.UserDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -22,7 +23,7 @@ public class UserController {
         UserDto userDto = new UserDto();
         userDto.setName("小明");
         userDto.setAge(18);
-        //FormatTemplate formatTemplate = new FormatTemplate(new ObjectFormatServiceImpl());
+       // FormatTemplate formatTemplate = new FormatTemplate(new StringFormatServiceImpl());
         String formatString =  formatTemplate.doFormat(userDto);
         return formatString;
     }

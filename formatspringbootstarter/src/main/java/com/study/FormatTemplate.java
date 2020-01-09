@@ -14,6 +14,7 @@ public class FormatTemplate {
     }
 
     public <T> String doFormat(T o){
+
         return formatService.format(o);
     }
 }
