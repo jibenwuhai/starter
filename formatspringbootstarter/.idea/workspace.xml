@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4ff5804-6b6f-4137-b8ca-a50bee871875" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/autoConfiguration/FormatProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/FormatTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/FormatTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/autoConfiguration/FormatAutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/autoConfiguration/FormatAutoConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/format/ObjectFormatServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/format/StringFormatServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/FormatTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/FormatTemplate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/autoConfiguration/FormatAutoConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/study/autoConfiguration/FormatAutoConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/study/format/ObjectFormatServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/format-spring-boot-starter-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/format-spring-boot-starter-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../starter-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../starter-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../starter-demo/src/main/java/com/study/starterdemo/StarterDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../starter-demo/src/main/java/com/study/starterdemo/StarterDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../starter-demo/src/main/java/com/study/starterdemo/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../starter-demo/src/main/java/com/study/starterdemo/web/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../starter-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../starter-demo/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="d4ff5804-6b6f-4137-b8ca-a50bee871875" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +94,7 @@
       <updated>1578491451899</updated>
       <workItem from="1578491456908" duration="6600000" />
       <workItem from="1578540446984" duration="4165000" />
-      <workItem from="1578550165607" duration="889000" />
+      <workItem from="1578550165607" duration="1092000" />
     </task>
     <servers />
   </component>
